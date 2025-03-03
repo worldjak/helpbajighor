@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any, react-hooks/exhaustive-deps */
 import React, { useEffect } from "react";
-import LiveChat from "./LiveChat";
+// import LiveChat from "./LiveChat";
 import Header from "./Header";
 import Footer from "./Footer";
 import Head from "next/head";

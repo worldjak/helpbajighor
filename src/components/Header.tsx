@@ -19,7 +19,11 @@ function Header() {
           <div className="flex flex-col items-center fixed top-0 left-0 h-screen w-full max-w-[70%] bg-green-800 z-10 animate__animated animate__fadeInLeft">
             <div className="flex justify-center items-center flex-col border-b w-full pb-5 border-b-gray-400">
               <Link href={"/"}>
-                <img className="w-full max-w-40" src="/assets/logo.png" />
+                <img
+                  className="w-full max-w-40"
+                  src="/assets/logo.png"
+                  alt="Logo image"
+                />
               </Link>
               <Link
                 href={"https://www.bajighor88.com/register"}
