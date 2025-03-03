@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #fdb813;
+  color: #fdb813;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f14f;
+  color: #f1f1f14f;
+  border-radius: 5px;
+}
+
+body {
+  background: #357d61;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu-ul > li {
+  border: 2px solid rgba(0, 0, 0, 0);
+}
+
+@media (max-width: 1280px) {
+  .menu-ul > li {
+    display: none;
+  }
+
+  .menu-ul > li:nth-last-child(-n + 2) {
+    display: block;
+  }
+}
+
+.menu-ul > li:hover {
+  cursor: pointer;
+  border-bottom: 2px solid #fce35a;
+}
+
+.signup-btn {
+  background: linear-gradient(
+    to right,
+    #f7a204 0%,
+    #ffe43c 15%,
+    #ffe43c 30%,
+    #f7a204 55%,
+    #f7a204 100%
+  );
+  background-size: 200%;
+  background-position: 50% 0;
+  color: #3e3e3e;
+  box-shadow: 0 5px 10px 0 rgba(71, 71, 71, 0.3), inset 0 0 3px 0 #ffed7e;
+  transition: box-shadow 0.5s ease-out 0.1s, background-position 0.3s ease-in,
+    text-shadow 0.3s ease-in 0.1s;
+  cursor: pointer;
+  color: black !important;
+  padding: 8px 30px !important;
+  border-radius: 3px;
+  margin: 2px;
+}
+
+.signup-btn:hover {
+  background-position: 0 0;
+  color: #3e3e3e;
+  text-shadow: 0 1px 3px #b19800;
+  box-shadow: 0 2px 2px 1px rgba(177, 152, 0, 0.1),
+    0 4px 4px 1px rgba(177, 152, 0, 0.1), 0 8px 8px 1px rgba(177, 152, 0, 0.1),
+    0 16px 16px 1px rgba(177, 152, 0, 0.1),
+    0 32px 32px 1px rgba(177, 152, 0, 0.1), inset 0 0 3px 0 #ffed7e;
+}
+
+.search-title {
+  color: white;
+  font-size: 32px;
+  line-height: 38px;
+  font-weight: 600;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+}
+
+.social-circle {
+  height: 35px;
+  width: 35px;
+  margin: 0 2px;
+  border-radius: 35px;
+  background: #595959;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-circle i {
+  font-size: 20px;
+  color: #3a3a3a;
+}
+
+.social-circle:hover i {
+  color: #fff;
+}

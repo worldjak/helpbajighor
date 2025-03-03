@@ -1,0 +1,700 @@
+{
+  "accountFaq": [
+    {
+      "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "question": {
+        "en": "Referral Program | FAQ",
+        "bn": "রেফারেল প্রোগ্রাম | FAQ"
+      },
+      "answer": {
+        "en": "Our referral program allows users to earn rewards by referring others to Bajighor88. Visit our Referral page for details.",
+        "bn": "আমাদের রেফারেল প্রোগ্রাম ব্যবহারকারীদেরকে অন্যদের রেফার করে পুরস্কার উপার্জন করতে দেয়। বিস্তারিত জানার জন্য আমাদের রেফারেল পেজ পরিদর্শন করুন।"
+      },
+      "content": {
+        "fullDescription": {
+          "en": "Our referral program allows users to earn rewards by referring others to Bajighor88. Visit our Referral page for details.",
+          "bn": "'রেজিস্টার' বাটনে ক্লিক করুন, আপনার তথ্য পূরণ করুন এবং রেজিস্ট্রেশন সম্পূর্ণ করতে পর্দার নির্দেশাবলী অনুসরণ করুন।"
+        },
+        "images": [
+          "/assets/images/referral/guide1.png",
+          "/assets/images/referral/guide2.png",
+          "/assets/images/referral/guide3.png"
+        ],
+        "video": {
+          "title": "Simple video",
+          "source": "/assets/video/referral.mp4"
+        }
+      }
+    },
+    {
+      "id": "0b6026bb-5a2b-4b9b-8c19-c40f58f1a5e5",
+      "question": {
+        "en": "18+ Policy",
+        "bn": "১৮+ নীতি"
+      },
+      "answer": {
+        "en": "Bajighor88 strictly enforces an 18+ policy. Users under 18 years old are prohibited from creating accounts or using our services.",
+        "bn": "Bajighor88 ১৮+ নীতি কঠোরভাবে প্রয়োগ করে। ১৮ বছরের নিচে ব্যবহারকারীদের অ্যাকাউন্ট তৈরি বা আমাদের সেবা ব্যবহার করা নিষিদ্ধ।"
+      }
+    },
+    {
+      "id": "c77fe7e0-bce2-4f23-bf99-88c7cf207f4e",
+      "question": {
+        "en": "What is our latest domain?",
+        "bn": "আমাদের সর্বশেষ ডোমেইন কী?"
+      },
+      "answer": {
+        "en": "The latest domain for Bajighor88 is www.bajighor88.com. Keep updated with our official channels for domain changes.",
+        "bn": "Bajighor88 এর সর্বশেষ ডোমেইন হল www.bajighor88.com। ডোমেইন পরিবর্তনের জন্য আমাদের অফিসিয়াল চ্যানেলে আপডেট পেতে থাকুন।"
+      }
+    },
+    {
+      "id": "f16fa04c-607d-4a45-b599-cf12559b4f75",
+      "question": {
+        "en": "What currencies does Bajighor88 support?",
+        "bn": "Bajighor88 কোন কোন মুদ্রা সমর্থন করে?"
+      },
+      "answer": {
+        "en": "Bajighor88 supports multiple currencies including BDT, USD, EUR, GBP, and more. Check our currency list during registration or deposit.",
+        "bn": "Bajighor88 একাধিক মুদ্রা সমর্থন করে, যেমন BDT, USD, EUR, GBP, এবং আরও অনেক কিছু। রেজিস্ট্রেশন বা ডিপোজিটের সময় আমাদের মুদ্রার তালিকা চেক করুন।"
+      }
+    },
+    {
+      "id": "7b23f7c0-c18a-42d3-bb9e-85831b3a9c16",
+      "question": {
+        "en": "Password Guidelines",
+        "bn": "পাসওয়ার্ড নির্দেশিকা"
+      },
+      "answer": {
+        "en": "Ensure your password is at least 8 characters long, includes upper and lowercase letters, a number, and a special character.",
+        "bn": "আপনার পাসওয়ার্ড কমপক্ষে ৮টি অক্ষরের হতে হবে, এতে বড় এবং ছোট হাতের অক্ষর, একটি সংখ্যা এবং একটি বিশেষ চিহ্ন থাকতে হবে।"
+      }
+    },
+    {
+      "id": "17a6746e-6a97-41a0-bdfa-0ac745a1d67f",
+      "question": {
+        "en": "How do I register an account with Bajighor88?",
+        "bn": "আমি কিভাবে Bajighor88-এ একটি অ্যাকাউন্ট নিবন্ধন করব?"
+      },
+      "answer": {
+        "en": "Click the 'Register' button on the homepage, fill in your details, and follow the on-screen instructions to complete registration.",
+        "bn": "'রেজিস্টার' বাটনে ক্লিক করুন, আপনার তথ্য পূরণ করুন এবং রেজিস্ট্রেশন সম্পূর্ণ করতে পর্দার নির্দেশাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "b7746a7d-d8d5-445b-bd61-cbcd643af184",
+      "question": {
+        "en": "Can I have more than one account with Bajighor88?",
+        "bn": "আমি কি Bajighor88-এ একাধিক অ্যাকাউন্ট রাখতে পারি?"
+      },
+      "answer": {
+        "en": "No, each user is allowed only one account. Multiple accounts may lead to suspension.",
+        "bn": "না, প্রতি ব্যবহারকারী শুধুমাত্র একটি অ্যাকাউন্ট রাখতে পারে। একাধিক অ্যাকাউন্ট থাকলে সাসপেনশন হতে পারে।"
+      }
+    },
+    {
+      "id": "c577a218-9a5b-49db-8d94-d86b8e2ff799",
+      "question": {
+        "en": "Is an identity card number required upon registration?",
+        "bn": "রেজিস্ট্রেশন করার সময় কি একটি পরিচয়পত্র নম্বর প্রয়োজন?"
+      },
+      "answer": {
+        "en": "Yes, providing a valid ID number ensures the security of your account and compliance with regulations.",
+        "bn": "হ্যাঁ, একটি বৈধ আইডি নম্বর প্রদান করলে আপনার অ্যাকাউন্টের নিরাপত্তা এবং বিধিনিষেধের সাথে সঙ্গতি নিশ্চিত হয়।"
+      }
+    },
+    {
+      "id": "45a90b16-50f6-42bb-bda4-94f6f4a9d14e",
+      "question": {
+        "en": "Can I change my username?",
+        "bn": "আমি কি আমার ব্যবহারকারীর নাম পরিবর্তন করতে পারি?"
+      },
+      "answer": {
+        "en": "No, usernames cannot be changed after registration. Choose carefully during signup.",
+        "bn": "না, নিবন্ধনের পর ব্যবহারকারীর নাম পরিবর্তন করা যাবে না। সাইনআপ করার সময় সাবধানে নির্বাচন করুন।"
+      }
+    }
+  ],
+  "paymentFaq": [
+    {
+      "id": "06f8e97a-9831-4f78-b3d3-6ef81be7f56b",
+      "question": {
+        "en": "How to make a deposit via bPay?",
+        "bn": "bPay এর মাধ্যমে ডিপোজিট কিভাবে করবেন?"
+      },
+      "answer": {
+        "en": "To deposit via bPay, log in to your Bajighor88 account, navigate to the deposit section, select bPay, and follow the on-screen instructions.",
+        "bn": "bPay এর মাধ্যমে ডিপোজিট করতে, আপনার Bajighor88 অ্যাকাউন্টে লগ ইন করুন, ডিপোজিট বিভাগে যান, bPay নির্বাচন করুন এবং প্রদত্ত নির্দেশাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "adbc3ebf-5051-4f6e-8e3c-f0b1d8d3e3f0",
+      "question": {
+        "en": "How to make a bKash deposit via Bonasa Pay?",
+        "bn": "Bonasa Pay এর মাধ্যমে bKash ডিপোজিট কিভাবে করবেন?"
+      },
+      "answer": {
+        "en": "To deposit via bKash using Bonasa Pay, choose Bonasa Pay from the deposit options, select bKash, and follow the provided steps to complete the transaction.",
+        "bn": "Bonasa Pay ব্যবহার করে bKash এর মাধ্যমে ডিপোজিট করতে, ডিপোজিট অপশন থেকে Bonasa Pay নির্বাচন করুন, bKash নির্বাচন করুন এবং লেনদেন সম্পূর্ণ করতে প্রদত্ত পদক্ষেপগুলি অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "b67df306-80d9-4bbd-a53b-cb15f3ac0663",
+      "question": {
+        "en": "How to make a deposit using bKash in OnePay?",
+        "bn": "OnePay তে bKash ব্যবহার করে ডিপোজিট কিভাবে করবেন?"
+      },
+      "answer": {
+        "en": "To use bKash in OnePay, go to the deposit section, select OnePay, and follow the instructions to complete your bKash transaction.",
+        "bn": "OnePay তে bKash ব্যবহার করতে, ডিপোজিট বিভাগে যান, OnePay নির্বাচন করুন এবং আপনার bKash লেনদেন সম্পূর্ণ করতে নির্দেশাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "e18b3d33-33f2-4c98-b536-04a7a3b6ed0b",
+      "question": {
+        "en": "What kind of deposit methods are available on Bajighor88?",
+        "bn": "Bajighor88-এ কোন ধরনের ডিপোজিট পদ্ধতি উপলব্ধ?"
+      },
+      "answer": {
+        "en": "Bajighor88 supports multiple deposit methods, including bPay, bKash, Bonasa Pay, OnePay, BangkokPay, bank transfers, and USDT via BTSE or Binance.",
+        "bn": "Bajighor88 বিভিন্ন ডিপোজিট পদ্ধতি সমর্থন করে, যেমন bPay, bKash, Bonasa Pay, OnePay, BangkokPay, ব্যাংক ট্রান্সফার এবং USDT via BTSE বা Binance।"
+      }
+    },
+    {
+      "id": "1f3c1a2e-9c62-4266-8fc5-bb0d8c2157f1",
+      "question": {
+        "en": "How to make a deposit via BangkokPay?",
+        "bn": "BangkokPay এর মাধ্যমে ডিপোজিট কিভাবে করবেন?"
+      },
+      "answer": {
+        "en": "To deposit via BangkokPay, select it from the deposit options, enter the required details, and follow the instructions to complete your payment.",
+        "bn": "BangkokPay এর মাধ্যমে ডিপোজিট করতে, এটি ডিপোজিট অপশন থেকে নির্বাচন করুন, প্রয়োজনীয় তথ্য দিন এবং পেমেন্ট সম্পূর্ণ করতে নির্দেশাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "7e0719a5-c271-4e83-8757-24b1974c422b",
+      "question": {
+        "en": "How to make a deposit via Bank Transfer?",
+        "bn": "ব্যাংক ট্রান্সফার এর মাধ্যমে ডিপোজিট কিভাবে করবেন?"
+      },
+      "answer": {
+        "en": "To deposit via bank transfer, select 'Bank Transfer' as your deposit method, and follow the provided instructions to complete the transaction.",
+        "bn": "ব্যাংক ট্রান্সফারের মাধ্যমে ডিপোজিট করতে, 'ব্যাংক ট্রান্সফার' নির্বাচন করুন এবং লেনদেন সম্পূর্ণ করতে প্রদত্ত নির্দেশাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "d1b1a59d-69f7-4c7d-b98d-e6c63b99262c",
+      "question": {
+        "en": "How to use USDT deposit by BTSE?",
+        "bn": "BTSE দ্বারা USDT ডিপোজিট কিভাবে করবেন?"
+      },
+      "answer": {
+        "en": "To use USDT deposit via BTSE, choose USDT as your deposit method, select BTSE, and follow the instructions to send the payment.",
+        "bn": "BTSE মাধ্যমে USDT ডিপোজিট করতে, USDT নির্বাচন করুন, BTSE নির্বাচন করুন এবং পেমেন্ট পাঠানোর জন্য নির্দেশাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "52275ed5-f8d2-46d8-b4d9-d0b977bf86ad",
+      "question": {
+        "en": "How to use USDT deposit by Binance?",
+        "bn": "Binance দ্বারা USDT ডিপোজিট কিভাবে করবেন?"
+      },
+      "answer": {
+        "en": "To deposit USDT via Binance, select USDT as your deposit method, choose Binance, and follow the steps to transfer USDT to the provided wallet address.",
+        "bn": "Binance এর মাধ্যমে USDT ডিপোজিট করতে, USDT নির্বাচন করুন, Binance নির্বাচন করুন এবং USDT প্রেরণের জন্য নির্দেশাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "a5d2592a-f3ac-4a22-b1c5-52d4b4263f92",
+      "question": {
+        "en": "TOP 8 Mistakes you should AVOID when Depositing",
+        "bn": "ডিপোজিট করার সময় এড়ানো উচিত এমন ৮টি প্রধান ভুল"
+      },
+      "answer": {
+        "en": "1. Entering incorrect payment details. 2. Using an unsupported payment method. 3. Not verifying your account before depositing. 4. Failing to match the deposit amount with the platform's requirements. 5. Exceeding transaction limits. 6. Neglecting to keep proof of payment. 7. Depositing from a mismatched account name. 8. Ignoring time limits for specific payment methods.",
+        "bn": "১. ভুল পেমেন্ট বিবরণ প্রদান। ২. সমর্থিত নয় এমন পেমেন্ট পদ্ধতি ব্যবহার। ৩. ডিপোজিট করার আগে আপনার অ্যাকাউন্ট যাচাই না করা। ৪. প্ল্যাটফর্মের চাহিদার সাথে ডিপোজিট পরিমাণ মিলানো না। ৫. লেনদেন সীমা অতিক্রম করা। ৬. পেমেন্টের প্রমাণ না রাখা। ৭. মেলানো না এমন অ্যাকাউন্ট নাম থেকে ডিপোজিট করা। ৮. নির্দিষ্ট পেমেন্ট পদ্ধতির জন্য সময়সীমা উপেক্ষা করা।"
+      }
+    },
+    {
+      "id": "a420327b-7632-4972-9441-dae9c3780636",
+      "question": {
+        "en": "What is the minimum deposit amount?",
+        "bn": "সর্বনিম্ন ডিপোজিট পরিমাণ কত?"
+      },
+      "answer": {
+        "en": "The minimum deposit amount on Bajighor88 varies depending on the payment method. Refer to the deposit section for specific details.",
+        "bn": "Bajighor88 এ সর্বনিম্ন ডিপোজিট পরিমাণ পেমেন্ট পদ্ধতির উপর নির্ভর করে। নির্দিষ্ট বিবরণ জানতে ডিপোজিট বিভাগে দেখুন।"
+      }
+    },
+    {
+      "id": "f657764e-829b-4856-a7cc-b8ef423d93d5",
+      "question": {
+        "en": "How long does it take for a deposit to be credited?",
+        "bn": "ডিপোজিট ক্রেডিট হতে কত সময় লাগে?"
+      },
+      "answer": {
+        "en": "Deposits are typically credited instantly. However, some methods may take up to 30 minutes to process.",
+        "bn": "ডিপোজিট সাধারণত তাত্ক্ষণিকভাবে ক্রেডিট হয়। তবে, কিছু পদ্ধতিতে প্রক্রিয়া করতে ৩০ মিনিট পর্যন্ত সময় নিতে পারে।"
+      }
+    },
+    {
+      "id": "91dffb84-59ec-4537-a741-df29b220d2c7",
+      "question": {
+        "en": "How can I check my deposit/withdrawal history?",
+        "bn": "কিভাবে আমার ডিপোজিট/উত্তোলন ইতিহাস চেক করব?"
+      },
+      "answer": {
+        "en": "To check your deposit or withdrawal history, log in to your Bajighor88 account and navigate to the 'Transaction History' section.",
+        "bn": "আপনার ডিপোজিট বা উত্তোলন ইতিহাস দেখতে, আপনার Bajighor88 অ্যাকাউন্টে লগ ইন করুন এবং 'লেনদেন ইতিহাস' বিভাগে যান।"
+      }
+    }
+  ],
+  "casinoFaq": [
+    {
+      "id": "b495fd9b-153b-4de1-bbff-6b060b7fcdf1",
+      "question": {
+        "en": "Bajighor88 Casino – What is Deal or No Deal Live?",
+        "bn": "Bajighor88 ক্যাসিনো – ডিল অর নো ডিল লাইভ কী?"
+      },
+      "answer": {
+        "en": "Deal or No Deal Live is an exciting game show-style live casino game where players open briefcases to reveal prizes and make strategic decisions to accept or reject offers from the banker.",
+        "bn": "ডিল অর নো ডিল লাইভ একটি রোমাঞ্চকর গেম শো-স্টাইল লাইভ ক্যাসিনো গেম যেখানে খেলোয়াড়রা briefcase খুলে পুরস্কার উন্মোচন করে এবং ব্যাংকারের অফার গ্রহণ বা প্রত্যাখ্যান করতে কৌশলগত সিদ্ধান্ত নেয়।"
+      }
+    },
+    {
+      "id": "051f4978-c143-4018-8768-28089e6fc6b7",
+      "question": {
+        "en": "What kind of live casino games are available on Bajighor88?",
+        "bn": "Bajighor88-এ কী ধরনের লাইভ ক্যাসিনো গেমস পাওয়া যায়?"
+      },
+      "answer": {
+        "en": "Bajighor88 offers a variety of live casino games, including Baccarat, Roulette, Dragon Tiger, Sic Bo, Andar Bahar, Teen Patti, Lightning Roulette, and more.",
+        "bn": "Bajighor88 বিভিন্ন ধরনের লাইভ ক্যাসিনো গেমস অফার করে, যার মধ্যে রয়েছে ব্যাকার্যাট, রুলেট, ড্রাগন টাইগার, সিক বো, আন্দার বাহার, টিন পত্তি, লাইটনিং রুলেট, এবং আরও অনেক কিছু।"
+      }
+    },
+    {
+      "id": "60ec647b-c1c2-4cfb-9ba5-cb7b9f130957",
+      "question": {
+        "en": "Bajighor88 Casino – What is Baccarat?",
+        "bn": "Bajighor88 ক্যাসিনো – ব্যাকার্যাট কী?"
+      },
+      "answer": {
+        "en": "Baccarat is a classic card game where players bet on the Player, Banker, or a Tie. The goal is to predict whose hand will have a value closest to 9.",
+        "bn": "ব্যাকার্যাট একটি ক্লাসিক কার্ড গেম যেখানে খেলোয়াড়রা প্লেয়ার, ব্যাংকার বা টাই-এর উপর বাজি রাখে। লক্ষ্য হল এটি পূর্বানুমান করা যে কোন হাতে ৯-এর কাছাকাছি মান হবে।"
+      }
+    },
+    {
+      "id": "423717fd-4e22-4003-b6c4-b06d432e9811",
+      "question": {
+        "en": "Bajighor88 Casino – What is Dragon Tiger?",
+        "bn": "Bajighor88 ক্যাসিনো – ড্রাগন টাইগার কী?"
+      },
+      "answer": {
+        "en": "Dragon Tiger is a simple two-card game where players bet on whether the Dragon or the Tiger will have the higher card, or if it will be a Tie.",
+        "bn": "ড্রাগন টাইগার একটি Bajighor88 দুই-কার্ড গেম যেখানে খেলোয়াড়রা বাজি রাখে যে ড্রাগন বা টাইগারের মধ্যে কোনটির কার্ড বেশি হবে, বা এটি কি টাই হবে।"
+      }
+    },
+    {
+      "id": "5e0f8d91-b1b7-4335-818a-52c6be6c2357",
+      "question": {
+        "en": "Bajighor88 Casino – What is Roulette?",
+        "bn": "Bajighor88 ক্যাসিনো – রুলেট কী?"
+      },
+      "answer": {
+        "en": "Roulette is a popular game where players bet on where a ball will land on a spinning wheel. Options include betting on numbers, colors, or combinations.",
+        "bn": "রুলেট একটি জনপ্রিয় গেম যেখানে খেলোয়াড়রা স্পিনিং হুইলে বল কোথায় পড়বে তা নিয়ে বাজি রাখে। বিকল্পগুলির মধ্যে রয়েছে সংখ্যা, রঙ বা কম্বিনেশনগুলিতে বাজি রাখা।"
+      }
+    },
+    {
+      "id": "c9f6a84d-cde0-4527-b574-3254d93872ba",
+      "question": {
+        "en": "Bajighor88 Casino – What is Sic Bo?",
+        "bn": "Bajighor88 ক্যাসিনো – সিক বো কী?"
+      },
+      "answer": {
+        "en": "Sic Bo is a dice game where players bet on the outcome of three dice rolls. It offers a variety of betting options and payouts.",
+        "bn": "সিক বো একটি ডাইস গেম যেখানে খেলোয়াড়রা তিনটি ডাইস রোলের ফলাফল নিয়ে বাজি রাখে। এটি বিভিন্ন বাজির বিকল্প এবং পে-আউট প্রদান করে।"
+      }
+    },
+    {
+      "id": "7b36b27e-84a6-43f1-8265-5473b1e10a39",
+      "question": {
+        "en": "Bajighor88 Casino – What is Andar Bahar? (Only available on Mobile)",
+        "bn": "Bajighor88 ক্যাসিনো – আন্দার বাহার কী? (শুধুমাত্র মোবাইলে উপলব্ধ)"
+      },
+      "answer": {
+        "en": "Andar Bahar is a traditional Indian card game where players bet on whether the 'Andar' or 'Bahar' side will match the Joker card first.",
+        "bn": "আন্দর বাহার একটি ঐতিহ্যবাহী ভারতীয় কার্ড গেম যেখানে খেলোয়াড়রা বাজি রাখে যে 'আন্দর' বা 'বাহার' সাইড প্রথমে জোকার কার্ডের সাথে মিলে যাবে।"
+      }
+    },
+    {
+      "id": "b3099a74-bd08-440b-b19e-f72d577db70e",
+      "question": {
+        "en": "Bajighor88 Casino – What is Teen Patti? (Only available on Mobile)",
+        "bn": "Bajighor88 ক্যাসিনো – টিন পত্তি কী? (শুধুমাত্র মোবাইলে উপলব্ধ)"
+      },
+      "answer": {
+        "en": "Teen Patti is a popular Indian card game similar to poker, where players aim to have the best hand based on card rankings.",
+        "bn": "টিন পত্তি একটি জনপ্রিয় ভারতীয় কার্ড গেম যা পোকারের মতো, যেখানে খেলোয়াড়রা কার্ড র‍্যাংকিংয়ের উপর ভিত্তি করে সেরা হাত পেতে চেষ্টা করে।"
+      }
+    },
+    {
+      "id": "a7d3f636-bd59-43de-b3d8-6170c7ccf115",
+      "question": {
+        "en": "Bajighor88 Casino – What is 1 Day Teen Patti? (Only available on Mobile)",
+        "bn": "Bajighor88 ক্যাসিনো – ১ ডে টিন পত্তি কী? (শুধুমাত্র মোবাইলে উপলব্ধ)"
+      },
+      "answer": {
+        "en": "1 Day Teen Patti is a fast-paced variant of the classic Teen Patti game, designed for shorter gameplay sessions and quicker results.",
+        "bn": "১ ডে টিন পত্তি ক্লাসিক টিন পত্তি গেমের একটি দ্রুত গতির সংস্করণ, যা সংক্ষিপ্ত গেমপ্লে সেশন এবং দ্রুত ফলাফল পাওয়ার জন্য ডিজাইন করা হয়েছে।"
+      }
+    },
+    {
+      "id": "7ff5a3ed-289e-47c6-bad4-4de8f7ccfae6",
+      "question": {
+        "en": "Bajighor88 Casino – What is Live Dragon Tiger?",
+        "bn": "Bajighor88 ক্যাসিনো – লাইভ ড্রাগন টাইগার কী?"
+      },
+      "answer": {
+        "en": "Live Dragon Tiger is a live casino game where players bet on which side, Dragon or Tiger, will have the higher card. It's simple and fast-paced.",
+        "bn": "লাইভ ড্রাগন টাইগার একটি লাইভ ক্যাসিনো গেম যেখানে খেলোয়াড়রা বাজি রাখে যে কোন সাইড, ড্রাগন বা টাইগার, বেশি কার্ড পাবে। এটি Bajighor88 এবং দ্রুত গতির।"
+      }
+    },
+    {
+      "id": "173129b0-bd2d-47a1-b418-d3d568c55f9c",
+      "question": {
+        "en": "What are 'Live' Casino Games?",
+        "bn": "'লাইভ' ক্যাসিনো গেমস কী?"
+      },
+      "answer": {
+        "en": "Live casino games are online versions of traditional casino games streamed live from a studio, allowing players to interact with a live dealer and other players.",
+        "bn": "লাইভ ক্যাসিনো গেমস হল ঐতিহ্যবাহী ক্যাসিনো গেমসের অনলাইন সংস্করণ যা একটি স্টুডিও থেকে লাইভ স্ট্রিম করা হয়, যেখানে খেলোয়াড়রা লাইভ ডিলার এবং অন্যান্য খেলোয়াড়দের সঙ্গে যোগাযোগ করতে পারে।"
+      }
+    }
+  ],
+  "promotionFaq": [
+    {
+      "id": "e4e1a66d-34a7-4b5c-b9fe-57c8a7b44b75",
+      "question": {
+        "en": "Why can’t my bets count towards turnover calculation, and why can’t my bonus be used on certain games?",
+        "bn": "কেন আমার বাজিগুলি টার্নওভার হিসাবের মধ্যে গণনা হয় না, এবং কেন আমার বোনাস কিছু গেমে ব্যবহার করা যায় না?"
+      },
+      "answer": {
+        "en": "Certain bets or games may be excluded from turnover calculation or bonus usage due to the terms and conditions of the promotion. Always review the specific rules for each offer or game.",
+        "bn": "কিছু বাজি বা গেম প্রমোশনটির শর্তাবলী অনুসারে টার্নওভার হিসাব বা বোনাস ব্যবহারের বাইরে থাকতে পারে। প্রতিটি অফার বা গেমের জন্য নির্দিষ্ট নিয়মগুলি সর্বদা পর্যালোচনা করুন।"
+      }
+    },
+    {
+      "id": "f25311d3-2a5e-4064-b537-f299e4fae94b",
+      "question": {
+        "en": "How to enjoy the welcome offer provided by Bajighor88?",
+        "bn": "Bajighor88 দ্বারা প্রদত্ত ওয়েলকাম অফার কীভাবে উপভোগ করবেন?"
+      },
+      "answer": {
+        "en": "To enjoy the welcome offer, register an account, make your first deposit, and opt-in to the welcome promotion. Follow the terms and conditions to claim the bonus.",
+        "bn": "ওয়েলকাম অফার উপভোগ করতে, একটি একাউন্ট নিবন্ধন করুন, আপনার প্রথম ডিপোজিট করুন, এবং ওয়েলকাম প্রমোশনে অপ্ট-ইন করুন। বোনাস দাবি করতে শর্তাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "d6b35ef7-4025-4b93-b372-fc0f063a7126",
+      "question": {
+        "en": "What are the promotions or bonuses available on Bajighor88 now, and how do I apply?",
+        "bn": "Bajighor88-এ এখন কোন প্রমোশন বা বোনাস উপলব্ধ রয়েছে, এবং আমি কীভাবে আবেদন করতে পারি?"
+      },
+      "answer": {
+        "en": "Visit the promotions section on Bajighor88's website to see the latest offers. Each promotion will have instructions on how to apply or opt-in.",
+        "bn": "Bajighor88ের ওয়েবসাইটের প্রমোশন বিভাগে যান সর্বশেষ অফারগুলি দেখার জন্য। প্রতিটি প্রমোশনের জন্য আবেদন বা অপ্ট-ইন করার নির্দেশনা থাকবে।"
+      }
+    },
+    {
+      "id": "3f8db82e-f926-4b92-832e-d45fd0f4e93a",
+      "question": {
+        "en": "Why don’t I see the bonus in my account?",
+        "bn": "কেন আমি আমার একাউন্টে বোনাস দেখতে পাচ্ছি না?"
+      },
+      "answer": {
+        "en": "If you don’t see a bonus in your account, ensure that you have met the eligibility criteria and have opted into the promotion. Contact support if the issue persists.",
+        "bn": "যদি আপনি আপনার একাউন্টে বোনাস না দেখেন, তবে নিশ্চিত করুন যে আপনি যোগ্যতার মানদণ্ড পূর্ণ করেছেন এবং প্রমোশনে অপ্ট-ইন করেছেন। সমস্যা থাকলে সাপোর্টের সাথে যোগাযোগ করুন।"
+      }
+    },
+    {
+      "id": "abe5c8b0-8e2c-47f0-9a8a-592d159c35c3",
+      "question": {
+        "en": "Can I wager or use a bonus on another game type that is not stated in the relevant promotion’s terms & conditions?",
+        "bn": "আমি কি একটি বোনাস অন্য কোনো গেম টাইপে বাজি বা ব্যবহার করতে পারি যা সংশ্লিষ্ট প্রমোশনের শর্তাবলীতে উল্লেখিত নয়?"
+      },
+      "answer": {
+        "en": "No, bonuses can only be used on games specified in the promotion’s terms and conditions. Using them on other games may lead to the bonus being voided.",
+        "bn": "না, বোনাসগুলি কেবল প্রমোশনের শর্তাবলীতে নির্দিষ্ট গেমে ব্যবহার করা যেতে পারে। অন্য গেমে ব্যবহার করলে বোনাস বাতিল হতে পারে।"
+      }
+    },
+    {
+      "id": "b0746894-7d2c-4c6c-85a1-7d6b0efba3b0",
+      "question": {
+        "en": "I’ve made my first deposit and got a smaller amount of bonus than expected, where is the rest of the bonus?",
+        "bn": "আমি আমার প্রথম ডিপোজিট করেছি এবং প্রত্যাশিত বোনাসের চেয়ে কম পরিমাণ বোনাস পেয়েছি, বাকি বোনাস কোথায়?"
+      },
+      "answer": {
+        "en": "Bonuses are often released in increments or based on specific conditions. Review the promotion terms or contact support for clarification.",
+        "bn": "বোনাসগুলি প্রায়ই কিস্তিতে বা নির্দিষ্ট শর্তাবলীর উপর ভিত্তি করে মুক্তি পায়। প্রমোশনের শর্তাবলী পর্যালোচনা করুন বা স্পষ্টতার জন্য সাপোর্টের সাথে যোগাযোগ করুন।"
+      }
+    },
+    {
+      "id": "c5665c0a-3b8b-4232-8d39-b48c66d25d39",
+      "question": {
+        "en": "What is the wagering requirement (with a promotion)?",
+        "bn": "প্রমোশন সহ ওয়েজারিং প্রয়োজনীয়তা কী?"
+      },
+      "answer": {
+        "en": "A wagering requirement is the number of times you must bet the bonus amount (or deposit + bonus) before you can withdraw any associated winnings. Check the promotion details for the exact requirement.",
+        "bn": "ওয়েজারিং প্রয়োজনীয়তা হল বোনাস পরিমাণ (অথবা ডিপোজিট + বোনাস) কতবার বাজি রাখতে হবে তার সংখ্যা, যাতে আপনি সংশ্লিষ্ট জিতাগুলি উত্তোলন করতে পারেন। সঠিক প্রয়োজনীয়তার জন্য প্রমোশন বিস্তারিত পরীক্ষা করুন।"
+      }
+    },
+    {
+      "id": "31ac6c73-d574-497d-8765-dfe1a5f30ae4",
+      "question": {
+        "en": "Can I make a withdrawal before the bonus wagering requirement is completed?",
+        "bn": "বোনাস ওয়েজারিং প্রয়োজনীয়তা সম্পন্ন হওয়ার আগে আমি কি উত্তোলন করতে পারি?"
+      },
+      "answer": {
+        "en": "No, withdrawals cannot be made before meeting the wagering requirements for the bonus. Withdrawing early may result in the forfeiture of the bonus and any related winnings.",
+        "bn": "না, বোনাসের জন্য ওয়েজারিং প্রয়োজনীয়তা পূর্ণ হওয়ার আগে উত্তোলন করা যাবে না। আগে উত্তোলন করলে বোনাস এবং সংশ্লিষ্ট জিতাগুলি হারিয়ে যেতে পারে।"
+      }
+    }
+  ],
+  "bajighor88TipsFaq": [
+    {
+      "id": "10a92c2d-5ec4-48ed-b6a4-23b26f601231",
+      "question": {
+        "en": "Bajighor88 Casino – What is Deal or No Deal Live?",
+        "bn": "Bajighor88 ক্যাসিনো – ডিল অর নো ডিল লাইভ কী?"
+      },
+      "answer": {
+        "en": "Deal or No Deal Live is a casino game at Bajighor88 that combines elements of a game show with live betting, offering an immersive experience for players.",
+        "bn": "ডিল অর নো ডিল লাইভ হল একটি ক্যাসিনো গেম যা গেম শোর উপাদানগুলি লাইভ বেটিংয়ের সাথে একত্রিত করে, খেলোয়াড়দের জন্য একটি ইমার্সিভ অভিজ্ঞতা প্রদান করে।"
+      }
+    },
+    {
+      "id": "f6351dfe-b8e2-44d0-bb98-8a823ccaf397",
+      "question": {
+        "en": "How to make a bKash deposit via Bonasa Pay?",
+        "bn": "বনসা পের মাধ্যমে bKash ডিপোজিট কিভাবে করবেন?"
+      },
+      "answer": {
+        "en": "To deposit via bKash using Bonasa Pay, navigate to the deposit section, select Bonasa Pay, choose bKash, and follow the steps to complete the transaction.",
+        "bn": "বনসা পের মাধ্যমে bKash ডিপোজিট করতে, ডিপোজিট সেকশনে যান, বনসা পে নির্বাচন করুন, bKash নির্বাচন করুন এবং লেনদেন সম্পন্ন করতে নির্দেশাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "c33ef623-c99c-42b4-beb7-6f01ab375244",
+      "question": {
+        "en": "How to make a deposit using bKash in OnePay?",
+        "bn": "OnePay এ bKash দিয়ে ডিপোজিট কিভাবে করবেন?"
+      },
+      "answer": {
+        "en": "To deposit using bKash in OnePay, go to the deposit section, choose OnePay, and follow the instructions for bKash payments.",
+        "bn": "OnePay এ bKash দিয়ে ডিপোজিট করতে, ডিপোজিট সেকশনে যান, OnePay নির্বাচন করুন এবং bKash পেমেন্টের জন্য নির্দেশাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "6f4fbd3e-2904-4c76-90db-b8c51a0d23c2",
+      "question": {
+        "en": "How do I register an account with Bajighor88?",
+        "bn": "আমি কীভাবে Bajighor88-এ অ্যাকাউন্ট রেজিস্টার করতে পারি?"
+      },
+      "answer": {
+        "en": "To register, visit Bajighor88's homepage, click on the 'Sign Up' button, fill in your details, and complete the registration process.",
+        "bn": "রেজিস্টার করতে, Bajighor88-এর হোমপেজে যান, 'সাইন আপ' বোতামে ক্লিক করুন, আপনার বিস্তারিত তথ্য পূর্ণ করুন এবং রেজিস্ট্রেশন প্রক্রিয়া সম্পন্ন করুন।"
+      }
+    },
+    {
+      "id": "839f598f-d717-4191-bf5f-473cbb8f2a59",
+      "question": {
+        "en": "How to verify my account?",
+        "bn": "আমি কীভাবে আমার অ্যাকাউন্ট যাচাই করতে পারি?"
+      },
+      "answer": {
+        "en": "To verify your account, provide the required identification documents through the account verification section in your profile settings.",
+        "bn": "আপনার অ্যাকাউন্ট যাচাই করতে, আপনার প্রোফাইল সেটিংসে অ্যাকাউন্ট যাচাইকরণ সেকশনে প্রয়োজনীয় শনাক্তকরণ ডকুমেন্টস প্রদান করুন।"
+      }
+    },
+    {
+      "id": "ae6a6026-90c2-4539-94ed-04f423080a02",
+      "question": {
+        "en": "What should I do if I forget my password?",
+        "bn": "আমি যদি আমার পাসওয়ার্ড ভুলে যাই, তাহলে কী করা উচিত?"
+      },
+      "answer": {
+        "en": "If you forget your password, use the 'Forgot Password' link on the login page to reset it. A password reset email will be sent to your registered email.",
+        "bn": "যদি আপনি আপনার পাসওয়ার্ড ভুলে যান, তাহলে লগইন পৃষ্ঠায় 'Forgot Password' লিঙ্কটি ব্যবহার করে সেটি রিসেট করুন। একটি পাসওয়ার্ড রিসেট ইমেইল আপনার নিবন্ধিত ইমেইলে পাঠানো হবে।"
+      }
+    },
+    {
+      "id": "76d129fc-b58f-4f3d-97a9-7bfaed3e6c6f",
+      "question": {
+        "en": "How to download Bajighor88 APP? (Android)",
+        "bn": "Bajighor88 অ্যাপ কিভাবে ডাউনলোড করবেন? (অ্যান্ড্রয়েড)"
+      },
+      "answer": {
+        "en": "Visit the Bajighor88 website, navigate to the mobile app section, and download the Android app by following the provided instructions.",
+        "bn": "Bajighor88 ওয়েবসাইটে যান, মোবাইল অ্যাপ সেকশনে নেভিগেট করুন এবং প্রদত্ত নির্দেশাবলী অনুসরণ করে Android অ্যাপ ডাউনলোড করুন।"
+      }
+    },
+    {
+      "id": "b55dbd63-35e2-4794-a2c2-df2784f713f6",
+      "question": {
+        "en": "Biometric Login (Fingerprint & Face ID)",
+        "bn": "বায়োমেট্রিক লগইন (ফিঙ্গারপ্রিন্ট এবং ফেস আইডি)"
+      },
+      "answer": {
+        "en": "Bajighor88 supports biometric login for added security. Enable it in the account settings of the mobile app for quick and secure access.",
+        "bn": "Bajighor88 অতিরিক্ত নিরাপত্তার জন্য বায়োমেট্রিক লগইন সমর্থন করে। মোবাইল অ্যাপের অ্যাকাউন্ট সেটিংসে এটি সক্ষম করুন দ্রুত এবং নিরাপদে অ্যাক্সেসের জন্য।"
+      }
+    },
+    {
+      "id": "a4785f42-fbc9-442f-9fbe-557eecf49a1b",
+      "question": {
+        "en": "How to join the RAF Program?",
+        "bn": "RAF প্রোগ্রামে কীভাবে যোগদান করবেন?"
+      },
+      "answer": {
+        "en": "To join the RAF Program, log in to your account, navigate to the referral section, and follow the steps to invite friends and earn rewards.",
+        "bn": "RAF প্রোগ্রামে যোগদান করতে, আপনার অ্যাকাউন্টে লগ ইন করুন, রেফারেল সেকশনে যান এবং বন্ধুদের আমন্ত্রণ জানান এবং পুরস্কার উপার্জন করতে নির্দেশাবলী অনুসরণ করুন।"
+      }
+    },
+    {
+      "id": "cdb9aef0-52f6-4130-b34d-38ff4594b499",
+      "question": {
+        "en": "Bajighor88 Casino – What is Baccarat?",
+        "bn": "Bajighor88 ক্যাসিনো – ব্যাকারাট কী?"
+      },
+      "answer": {
+        "en": "Baccarat is a classic card game available at Bajighor88 Casino where players bet on the player, banker, or a tie outcome.",
+        "bn": "ব্যাকারাট একটি ক্লাসিক কার্ড গেম যা Bajighor88 ক্যাসিনোতে উপলব্ধ, যেখানে খেলোয়াড়রা প্লেয়ার, ব্যাঙ্কার, অথবা একটি টাই আউটকাম-এর উপর বাজি ধরেন।"
+      }
+    },
+    {
+      "id": "8499f597-3ef1-4ec4-8b72-bd66e399cf07",
+      "question": {
+        "en": "Bajighor88 Casino – What is Dragon Tiger?",
+        "bn": "Bajighor88 ক্যাসিনো – ড্রাগন টাইগার কী?"
+      },
+      "answer": {
+        "en": "Dragon Tiger is a fast-paced card game where players bet on which hand, Dragon or Tiger, will have the higher card.",
+        "bn": "ড্রাগন টাইগার একটি দ্রুত গতির কার্ড গেম, যেখানে খেলোয়াড়রা বাজি ধরেন যে কোন হাত, ড্রাগন অথবা টাইগার, উচ্চতর কার্ড পাবে।"
+      }
+    },
+    {
+      "id": "b8e50e0c-bc29-4d6c-b93d-3681d7240b6f",
+      "question": {
+        "en": "Bajighor88 Casino – What is Roulette?",
+        "bn": "Bajighor88 ক্যাসিনো – রুলেট কী?"
+      },
+      "answer": {
+        "en": "Roulette is a popular casino game where players place bets on a spinning wheel with numbered pockets.",
+        "bn": "রুলেট একটি জনপ্রিয় ক্যাসিনো গেম যেখানে খেলোয়াড়রা একটি ঘূর্ণায়মান চাকাতে নম্বরযুক্ত পকেটে বাজি ধরেন।"
+      }
+    },
+    {
+      "id": "8de542ae-d44f-4f0f-9527-f3c8be1c207b",
+      "question": {
+        "en": "Bajighor88 Casino – What is Sic Bo?",
+        "bn": "Bajighor88 ক্যাসিনো – সিক বো কী?"
+      },
+      "answer": {
+        "en": "Sic Bo is a dice-based casino game where players bet on various outcomes of three dice rolls.",
+        "bn": "সিক বো একটি ডাইস ভিত্তিক ক্যাসিনো গেম, যেখানে খেলোয়াড়রা তিনটি ডাইস রোলের বিভিন্ন ফলাফলের উপর বাজি ধরেন।"
+      }
+    },
+    {
+      "id": "19ad6ad7-5eb4-4b5f-8c3f-d9e1bb670e02",
+      "question": {
+        "en": "Bajighor88 Casino – What is Andar Bahar? (Only available on Mobile)",
+        "bn": "Bajighor88 ক্যাসিনো – আন্দার বাহার কী? (মোবাইলে শুধুমাত্র উপলব্ধ)"
+      },
+      "answer": {
+        "en": "Andar Bahar is a card game available on Bajighor88 Mobile where players bet on which side, Andar or Bahar, will match the joker card.",
+        "bn": "আন্দার বাহার একটি কার্ড গেম যা Bajighor88 মোবাইলে উপলব্ধ, যেখানে খেলোয়াড়রা বাজি ধরেন কোন দিক, আন্দার বা বাহার, জোকার কার্ডের সাথে মেলাবে।"
+      }
+    }
+  ],
+  "sportsFaq": [
+    {
+      "id": "daf38d87-9cd7-4cc6-bccf-cf49b576b7fc",
+      "question": {
+        "en": "What sports can I bet on?",
+        "bn": "কোন কোন খেলায় আমি বাজি ধরতে পারি?"
+      },
+      "answer": {
+        "en": "Bajighor88 offers a wide variety of sports for betting, including football, cricket, tennis, basketball, and more.",
+        "bn": "ShozBet বাজির জন্য একটি বিস্তৃত ক্রীড়ার পরিসর প্রদান করে, যার মধ্যে ফুটবল, ক্রিকেট, টেনিস, বাস্কেটবল এবং আরও অনেক কিছু অন্তর্ভুক্ত।"
+      }
+    },
+    {
+      "id": "b2d67bdf-d55f-467b-98e7-0298f8f64a16",
+      "question": {
+        "en": "How do I place a bet on a match?",
+        "bn": "কীভাবে আমি একটি ম্যাচে বাজি ধরব?"
+      },
+      "answer": {
+        "en": "To place a bet, select a match or event, choose your preferred bet type and odds, and confirm your wager.",
+        "bn": "বাজি ধরতে, একটি ম্যাচ বা ইভেন্ট নির্বাচন করুন, আপনার পছন্দসই বাজি ধরার ধরন এবং অডস বাছাই করুন এবং আপনার বাজি নিশ্চিত করুন।"
+      }
+    },
+    {
+      "id": "734a84d1-cad6-4ec2-b924-b94acafcd3e7",
+      "question": {
+        "en": "What are odds, and how do they work?",
+        "bn": "অডস কী এবং সেগুলি কীভাবে কাজ করে?"
+      },
+      "answer": {
+        "en": "Odds represent the probability of an event occurring. The higher the odds, the less likely the event is to happen. They determine your potential payout.",
+        "bn": "অডস একটি ইভেন্ট ঘটার সম্ভাবনা নির্দেশ করে। যত বেশি অডস, তত কম সম্ভাবনা থাকে যে ইভেন্টটি ঘটবে। এগুলি আপনার সম্ভাব্য পেমেন্ট নির্ধারণ করে।"
+      }
+    },
+    {
+      "id": "d9411c2c-9754-4771-8f24-ff33d28b27ed",
+      "question": {
+        "en": "Can I change my bet after placing it?",
+        "bn": "বাজি ধরার পর কি আমি আমার বাজি পরিবর্তন করতে পারি?"
+      },
+      "answer": {
+        "en": "Once a bet is confirmed, it cannot be changed or canceled. Make sure to double-check your wager before placing it.",
+        "bn": "একবার বাজি নিশ্চিত হলে, তা পরিবর্তন বা বাতিল করা সম্ভব নয়। বাজি ধরার আগে নিশ্চিত হয়ে নিন।"
+      }
+    },
+    {
+      "id": "b1bc4012-11b8-4415-88d8-021d9709b8d1",
+      "question": {
+        "en": "What is in-play betting?",
+        "bn": "ইন-প্লে বাজি কী?"
+      },
+      "answer": {
+        "en": "In-play betting allows you to place bets during the course of a match or event, adjusting your wager as the game progresses.",
+        "bn": "ইন-প্লে বাজি আপনাকে একটি ম্যাচ বা ইভেন্ট চলাকালীন বাজি ধরতে দেয়, এবং খেলা চলার সাথে সাথে আপনার বাজি পরিবর্তন করতে পারে।"
+      }
+    },
+    {
+      "id": "42e907cc-4228-4d75-bd6e-ec7d77761919",
+      "question": {
+        "en": "What is a parlay bet?",
+        "bn": "পারলে বাজি কী?"
+      },
+      "answer": {
+        "en": "A parlay bet combines multiple individual bets into one. All selections must win for the parlay to be successful.",
+        "bn": "পারলে বাজি একাধিক পৃথক বাজিকে একটি বাজিতে একত্রিত করে। সফল হওয়ার জন্য সমস্ত নির্বাচন জিততে হবে।"
+      }
+    },
+    {
+      "id": "053736d5-6efb-4290-8200-1c2d93a1f169",
+      "question": {
+        "en": "What is a moneyline bet?",
+        "bn": "মানিলাইন বাজি কী?"
+      },
+      "answer": {
+        "en": "A moneyline bet is a simple wager on which team or player will win a match, with odds adjusted based on the favorite and underdog.",
+        "bn": "মানিলাইন বাজি একটি সরল বাজি, যেখানে আপনি নির্বাচন করেন কোন দল বা খেলোয়াড় একটি ম্যাচ জয়ী হবে, এবং অডস ফেভারিট এবং আনডগের ভিত্তিতে সমন্বিত হয়।"
+      }
+    }
+  ]
+}

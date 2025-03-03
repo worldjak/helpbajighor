@@ -1,0 +1,38 @@
+{
+  "websiteTitle": "Bajighor88 FAQ",
+  "websiteDescription": "Get instant support for your Bajighor88 account at Help Bajighor88 Live. Our dedicated team is here 24/7 to assist with your inquiries, account issues, and betting questions.",
+  "welcome": "Welcome",
+  "allFaqs": "All",
+  "languageSwitch": "Switch to Bangla",
+  "helphome": "Help Home",
+  "helptopic": "Help Topic",
+  "termsconditions": "Terms & Conditions",
+  "livestreaming": "Live Streaming",
+  "bajighor88sports": "Bajighor88 Sports",
+  "language": "Language",
+  "signup": "Sign Up",
+  "privacypolicy": "Privacy Policy",
+  "kyc": "KYC",
+  "responsiblegaming": "Responsible Gaming",
+  "rulesregulations": "Rules and Regulations",
+  "copyright": "@Copyright",
+  "home": "Home",
+  "helpCenter": "Help Center",
+  "topics": {
+    "title": "Topics",
+    "viewAllBtn": "View All",
+    "items": {
+      "account": "Account",
+      "payment": "Payment",
+      "tips": "Bajighor88 Tips",
+      "promotions": "Promotions",
+      "sports": "Sports",
+      "casino": "Casino"
+    }
+  },
+  "searchBox": {
+    "placeholder": "Search our help articles ... ",
+    "searchStartText": "Enter keywords to start searching...",
+    "searchNoResultText": "No results found for"
+  }
+}

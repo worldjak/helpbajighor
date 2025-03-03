@@ -1,0 +1,38 @@
+{
+  "websiteTitle": "Bajighor88 প্রশ্নোত্তর",
+  "websiteDescription": "আপনার Bajighor88 অ্যাকাউন্টের জন্য হেল্প Bajighor88 লাইভে তাৎক্ষণিক সহায়তা পান। আপনার জিজ্ঞাসা, অ্যাকাউন্ট সমস্যা এবং বাজি সংক্রান্ত প্রশ্নগুলির সমাধানের জন্য আমাদের নিবেদিতপ্রাণ দল 24/7 এখানে রয়েছে।",
+  "welcome": "স্বাগতম",
+  "allFaqs": "সমস্ত",
+  "languageSwitch": "ইংলিশে যান",
+  "helphome": "Bajighor88 সহায়তা",
+  "helptopic": "সহায়তার বিষয়বস্তু",
+  "termsconditions": "শর্তাবলী",
+  "livestreaming": "লাইভ স্ট্রিমিং",
+  "bajighor88sports": "Bajighor88 স্পোর্টস",
+  "language": "ভাষা",
+  "signup": "নিবন্ধন করুন",
+  "privacypolicy": "গোপনীয়তা নীতি",
+  "kyc": "কেওয়াইসি",
+  "responsiblegaming": "দায়িত্বশীল গেমিং",
+  "rulesregulations": "নিয়ম ও বিধি",
+  "copyright": "@কপিরাইট",
+  "home": "হোম",
+  "helpCenter": "সহায়তা কেন্দ্র",
+  "topics": {
+    "title": "বিষয়বস্তু",
+    "viewAllBtn": "সবগুলো দেখুন",
+    "items": {
+      "account": "অ্যাকাউন্ট",
+      "payment": "পেমেন্ট",
+      "tips": "Bajighor88 টিপস",
+      "promotions": "প্রচার",
+      "sports": "খেলা",
+      "casino": "ক্যাসিনো"
+    }
+  },
+  "searchBox": {
+    "placeholder": "আমাদের সহায়তা নিবন্ধগুলি অনুসন্ধান করুন ...",
+    "searchStartText": "অনুসন্ধান শুরু করতে কীওয়ার্ড লিখুন...",
+    "searchNoResultText": "কোনো ফলাফল পাওয়া যায়নি"
+  }
+}
